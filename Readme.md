@@ -1,8 +1,7 @@
 Homework2 - Multi-class Weather Classification
-2 punti
+2 
 
 Luca Iocchi
-25 nov 2019 (Ultima modifica: 10 dic 2019)
 Data sets are available in
 https://drive.google.com/drive/folders/1UzH28Q8xki8_DMYdDgHxi40-CJ800Kaq
 
